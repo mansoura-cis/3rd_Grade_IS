@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+__pycache__/
+.idea/
+venv/
+*.icloud
+*.DS_Store
+*.pyc
+
+tmp/
+data/processed
+data/arrays
